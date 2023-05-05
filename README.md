@@ -47,7 +47,7 @@
 
 ### Hello-Rails-Back-End <a name="back-end"></a>
 
-- Hello-Rails-Back-End(https://github.com/altontonn/hello-rails-back-end)
+- [Hello-Rails-Back-End](https://github.com/altontonn/hello-rails-back-end)
 
 <!-- GETTING STARTED -->
 
