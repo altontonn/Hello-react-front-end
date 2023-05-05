@@ -129,6 +129,6 @@ I would like to thank microverse for useful materials to help e complete this pr
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/altontonn/hello-rails-back-end/blob/development/LICENSE) licensed.
+This project is [MIT](https://github.com/altontonn/Hello-react-front-end/blob/feature/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
